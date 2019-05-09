@@ -1,4 +1,4 @@
-#SCRIPT PER GOOGLE
+#SUMMARY
 
 # loading data
 data("storms")
